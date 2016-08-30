@@ -11,7 +11,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "autoprefixer": "^6.3.7",
+    "autoprefixer": "https://registry.npmjs.org/autoprefixer/-/autoprefixer-6.3.7.tgz",
+    "bcrypt": "^0.8.7",
     "faker": "^3.0.1"
   },
   "devDependencies": {

@@ -2,8 +2,8 @@
 /* eslint-disable quote-props */
 
 App.info({
-  name: 'Todos',
-  description: 'A simple todo list app built in Meteor.',
+  name: '待办事项',
+  description: '基于Meteor构建的简单的待办事项管理器',
   author: 'Percolate Studio Team',
   email: 'us@percolatestudio.com',
   website: 'http://percolatestudio.com',
